@@ -1,3 +1,15 @@
+## Submission to Repo
+To comply with the instructions below the following files have been added to the repository:
+* import_data.R - This should be run first on with the downloaded and unzipped text file per the instructions below. It will generate the "gp1" variable to be input into the plot generating functions.
+* plot1.R - This function should be sourced and run with the gp1 variable from import_data.R to generate Plot1.
+* plot1.png - The output png from plot1.R.
+* plot2.R - This function should be sourced and run with the gp1 variable from import_data.R to generate Plot2.
+* plot2.png - The output png from plot2.R.
+* plot3.R - This function should be sourced and run with the gp1 variable from import_data.R to generate Plot3.
+* plot3.png - The output png from plot3.R.
+* plot4.R - This function should be sourced and run with the gp1 variable from import_data.R to generate Plot4.
+* plot4.png - The output png from plot4.R.
+
 ## Introduction
 
 This assignment uses data from
